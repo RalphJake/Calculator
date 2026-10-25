@@ -1,6 +1,11 @@
 members:
+
 john rave gamao
+
 ralph jake tagnong
+
 adrian pedrita
+
 rosemar tan
+
 stephen george tagle
